@@ -1,8 +1,8 @@
-##Either
+**Either**
 
 Run: pip install -r requirements.txt
 
-##Or
+**Or**
 
 Run:
 ```
